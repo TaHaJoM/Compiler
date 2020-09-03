@@ -9,8 +9,7 @@ Just it will work on debian base linux distributions!
 First change your python version in file
 
 Then open terminal in file directory and run
-chmod +x compiler.py
-./compiler.py install
+chmod +x compiler.py && ./compiler.py install
 
 Now for compile your code run
 ./compiler.py c file_name.py
